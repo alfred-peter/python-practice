@@ -20,3 +20,6 @@ Computes the factorial of a number using recursion.
 
 6.Sum of Digits of a Number - 
 Calculates the sum of all digits in a given number.
+
+NAME KILONZO ALFRED PETER MBUVI
+ADMISSION NUMBER 190285
